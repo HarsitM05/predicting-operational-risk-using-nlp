@@ -1,4 +1,4 @@
-# README: Predicting Operational Risk Using NLP
+# Predicting Operational Risk Using NLP
 
 ## Project Overview
 This project focuses on using Natural Language Processing (NLP) techniques to construct a cybersecurity risk measure from SEC 10-K filings. By analyzing text data from financial reports, we aim to assess the impact of cybersecurity risks on the market.
